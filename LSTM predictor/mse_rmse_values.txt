@@ -1,0 +1,2 @@
+0.00452929,0.0673,LTSM
+0.001089,0.033,Random Forest Regression
